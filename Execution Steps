@@ -19,7 +19,7 @@ Key will be generated
 
 [master] 
 
-$ cat /home/labsuser/.ssh/id_rsa.pub
+$ cat /home/user/.ssh/id_rsa.pub
 
 Copy this public key
 
